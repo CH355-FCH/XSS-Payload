@@ -1,2 +1,2 @@
 # XSS-Payload
-Collection of basic, intermediate and advanced XSS payloads gathered from different sources.
+Payloads XSS de níveis variáds reunidos de diferentes lugares (GitHub). 
